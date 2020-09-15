@@ -1,0 +1,6 @@
+D:\MyProject\ConsoleApp\Framework\bin\Debug\Framework.dll
+D:\MyProject\ConsoleApp\Framework\bin\Debug\Framework.pdb
+D:\MyProject\ConsoleApp\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+D:\MyProject\ConsoleApp\Framework\obj\Debug\Framework.dll
+D:\MyProject\ConsoleApp\Framework\obj\Debug\Framework.pdb
+D:\MyProject\ConsoleApp\Framework\obj\Debug\Framework.csprojAssemblyReference.cache

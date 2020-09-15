@@ -1,0 +1,10 @@
+D:\MyProject\ConsoleSample\EquationSample\EquationSample\bin\Debug\EquationSample.exe.config
+D:\MyProject\ConsoleSample\EquationSample\EquationSample\bin\Debug\EquationSample.exe
+D:\MyProject\ConsoleSample\EquationSample\EquationSample\bin\Debug\EquationSample.pdb
+D:\MyProject\ConsoleSample\EquationSample\EquationSample\bin\Debug\Framework.dll
+D:\MyProject\ConsoleSample\EquationSample\EquationSample\bin\Debug\Framework.pdb
+D:\MyProject\ConsoleSample\EquationSample\EquationSample\obj\Debug\EquationSample.csprojAssemblyReference.cache
+D:\MyProject\ConsoleSample\EquationSample\EquationSample\obj\Debug\EquationSample.csproj.CoreCompileInputs.cache
+D:\MyProject\ConsoleSample\EquationSample\EquationSample\obj\Debug\EquationSample.csproj.CopyComplete
+D:\MyProject\ConsoleSample\EquationSample\EquationSample\obj\Debug\EquationSample.exe
+D:\MyProject\ConsoleSample\EquationSample\EquationSample\obj\Debug\EquationSample.pdb

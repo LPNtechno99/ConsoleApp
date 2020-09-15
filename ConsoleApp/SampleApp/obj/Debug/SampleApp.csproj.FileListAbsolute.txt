@@ -1,0 +1,10 @@
+D:\MyProject\ConsoleApp\SampleApp\bin\Debug\SampleApp.exe.config
+D:\MyProject\ConsoleApp\SampleApp\bin\Debug\SampleApp.exe
+D:\MyProject\ConsoleApp\SampleApp\bin\Debug\SampleApp.pdb
+D:\MyProject\ConsoleApp\SampleApp\obj\Debug\SampleApp.csprojAssemblyReference.cache
+D:\MyProject\ConsoleApp\SampleApp\obj\Debug\SampleApp.csproj.CoreCompileInputs.cache
+D:\MyProject\ConsoleApp\SampleApp\obj\Debug\SampleApp.exe
+D:\MyProject\ConsoleApp\SampleApp\obj\Debug\SampleApp.pdb
+D:\MyProject\ConsoleApp\SampleApp\bin\Debug\Framework.dll
+D:\MyProject\ConsoleApp\SampleApp\bin\Debug\Framework.pdb
+D:\MyProject\ConsoleApp\SampleApp\obj\Debug\SampleApp.csproj.CopyComplete
